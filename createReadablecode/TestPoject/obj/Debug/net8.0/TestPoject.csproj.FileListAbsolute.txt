@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\obj\Debug\net8.0\TestPoject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\obj\Debug\net8.0\TestPoject.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\obj\Debug\net8.0\TestPoject.AssemblyInfo.cs
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\obj\Debug\net8.0\TestPoject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\bin\Debug\net8.0\TestPoject.exe
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\bin\Debug\net8.0\TestPoject.deps.json
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\bin\Debug\net8.0\TestPoject.runtimeconfig.json
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\bin\Debug\net8.0\TestPoject.dll
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\bin\Debug\net8.0\TestPoject.pdb
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\obj\Debug\net8.0\TestPoject.dll
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\obj\Debug\net8.0\refint\TestPoject.dll
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\obj\Debug\net8.0\TestPoject.pdb
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\obj\Debug\net8.0\TestPoject.genruntimeconfig.cache
+C:\Users\HP\Documents\aGithub\C#\createReadablecode\TestPoject\obj\Debug\net8.0\ref\TestPoject.dll

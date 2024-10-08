@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\obj\Debug\net8.0\conditionalOperatorChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\obj\Debug\net8.0\conditionalOperatorChallenge.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\obj\Debug\net8.0\conditionalOperatorChallenge.AssemblyInfo.cs
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\obj\Debug\net8.0\conditionalOperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\bin\Debug\net8.0\conditionalOperatorChallenge.exe
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\bin\Debug\net8.0\conditionalOperatorChallenge.deps.json
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\bin\Debug\net8.0\conditionalOperatorChallenge.runtimeconfig.json
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\bin\Debug\net8.0\conditionalOperatorChallenge.dll
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\bin\Debug\net8.0\conditionalOperatorChallenge.pdb
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\obj\Debug\net8.0\conditionalOperatorChallenge.dll
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\obj\Debug\net8.0\refint\conditionalOperatorChallenge.dll
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\obj\Debug\net8.0\conditionalOperatorChallenge.pdb
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\obj\Debug\net8.0\conditionalOperatorChallenge.genruntimeconfig.cache
+C:\Users\HP\Documents\aGithub\C#\conditionalOperatorChallenge\obj\Debug\net8.0\ref\conditionalOperatorChallenge.dll

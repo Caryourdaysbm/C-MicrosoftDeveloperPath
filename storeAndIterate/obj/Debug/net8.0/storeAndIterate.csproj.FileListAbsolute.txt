@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\bin\Debug\net8.0\storeAndIterate.exe
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\bin\Debug\net8.0\storeAndIterate.deps.json
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\bin\Debug\net8.0\storeAndIterate.runtimeconfig.json
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\bin\Debug\net8.0\storeAndIterate.dll
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\bin\Debug\net8.0\storeAndIterate.pdb
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\obj\Debug\net8.0\storeAndIterate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\obj\Debug\net8.0\storeAndIterate.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\obj\Debug\net8.0\storeAndIterate.AssemblyInfo.cs
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\obj\Debug\net8.0\storeAndIterate.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\obj\Debug\net8.0\storeAndIterate.dll
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\obj\Debug\net8.0\refint\storeAndIterate.dll
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\obj\Debug\net8.0\storeAndIterate.pdb
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\obj\Debug\net8.0\storeAndIterate.genruntimeconfig.cache
+C:\Users\HP\Documents\aGithub\C#\storeAndIterate\obj\Debug\net8.0\ref\storeAndIterate.dll

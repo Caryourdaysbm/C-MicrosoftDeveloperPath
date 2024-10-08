@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\obj\Debug\net8.0\codeBlocksAndVariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\obj\Debug\net8.0\codeBlocksAndVariableScope.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\obj\Debug\net8.0\codeBlocksAndVariableScope.AssemblyInfo.cs
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\obj\Debug\net8.0\codeBlocksAndVariableScope.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\bin\Debug\net8.0\codeBlocksAndVariableScope.exe
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\bin\Debug\net8.0\codeBlocksAndVariableScope.deps.json
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\bin\Debug\net8.0\codeBlocksAndVariableScope.runtimeconfig.json
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\bin\Debug\net8.0\codeBlocksAndVariableScope.dll
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\bin\Debug\net8.0\codeBlocksAndVariableScope.pdb
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\obj\Debug\net8.0\codeBlocksAndVariableScope.dll
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\obj\Debug\net8.0\refint\codeBlocksAndVariableScope.dll
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\obj\Debug\net8.0\codeBlocksAndVariableScope.pdb
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\obj\Debug\net8.0\codeBlocksAndVariableScope.genruntimeconfig.cache
+C:\Users\HP\Documents\aGithub\C#\codeBlocksAndVariableScope\obj\Debug\net8.0\ref\codeBlocksAndVariableScope.dll

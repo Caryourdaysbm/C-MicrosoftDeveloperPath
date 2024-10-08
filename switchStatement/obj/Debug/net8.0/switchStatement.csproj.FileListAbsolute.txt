@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aGithub\C#\switchStatement\obj\Debug\net8.0\switchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aGithub\C#\switchStatement\obj\Debug\net8.0\switchStatement.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aGithub\C#\switchStatement\obj\Debug\net8.0\switchStatement.AssemblyInfo.cs
+C:\Users\HP\Documents\aGithub\C#\switchStatement\obj\Debug\net8.0\switchStatement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aGithub\C#\switchStatement\bin\Debug\net8.0\switchStatement.exe
+C:\Users\HP\Documents\aGithub\C#\switchStatement\bin\Debug\net8.0\switchStatement.deps.json
+C:\Users\HP\Documents\aGithub\C#\switchStatement\bin\Debug\net8.0\switchStatement.runtimeconfig.json
+C:\Users\HP\Documents\aGithub\C#\switchStatement\bin\Debug\net8.0\switchStatement.dll
+C:\Users\HP\Documents\aGithub\C#\switchStatement\bin\Debug\net8.0\switchStatement.pdb
+C:\Users\HP\Documents\aGithub\C#\switchStatement\obj\Debug\net8.0\switchStatement.dll
+C:\Users\HP\Documents\aGithub\C#\switchStatement\obj\Debug\net8.0\refint\switchStatement.dll
+C:\Users\HP\Documents\aGithub\C#\switchStatement\obj\Debug\net8.0\switchStatement.pdb
+C:\Users\HP\Documents\aGithub\C#\switchStatement\obj\Debug\net8.0\switchStatement.genruntimeconfig.cache
+C:\Users\HP\Documents\aGithub\C#\switchStatement\obj\Debug\net8.0\ref\switchStatement.dll

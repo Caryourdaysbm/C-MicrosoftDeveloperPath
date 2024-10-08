@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\HP\Documents\aGithub\C#\dotnetintro\TestProject\obj\Debug\net8.0\ref\TestProject.dll
