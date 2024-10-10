@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\doWhileChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\doWhileChallenge.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\doWhileChallenge.AssemblyInfo.cs
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\doWhileChallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\doWhileChallenge.sourcelink.json
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\bin\Debug\net8.0\doWhileChallenge.exe
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\bin\Debug\net8.0\doWhileChallenge.deps.json
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\bin\Debug\net8.0\doWhileChallenge.runtimeconfig.json
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\bin\Debug\net8.0\doWhileChallenge.dll
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\bin\Debug\net8.0\doWhileChallenge.pdb
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\doWhileChallenge.dll
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\refint\doWhileChallenge.dll
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\doWhileChallenge.pdb
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\doWhileChallenge.genruntimeconfig.cache
+C:\Users\HP\Documents\aGithub\C#\doWhileChallenge\obj\Debug\net8.0\ref\doWhileChallenge.dll

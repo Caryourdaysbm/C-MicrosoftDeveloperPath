@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\bin\Debug\net8.0\iterationLoops.exe
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\bin\Debug\net8.0\iterationLoops.deps.json
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\bin\Debug\net8.0\iterationLoops.runtimeconfig.json
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\bin\Debug\net8.0\iterationLoops.dll
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\bin\Debug\net8.0\iterationLoops.pdb
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\iterationLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\iterationLoops.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\iterationLoops.AssemblyInfo.cs
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\iterationLoops.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\iterationLoops.sourcelink.json
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\iterationLoops.dll
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\refint\iterationLoops.dll
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\iterationLoops.pdb
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\iterationLoops.genruntimeconfig.cache
+C:\Users\HP\Documents\aGithub\C#\iterationLoops\obj\Debug\net8.0\ref\iterationLoops.dll
